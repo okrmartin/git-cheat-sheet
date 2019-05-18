@@ -1,4 +1,6 @@
-#Ignoring file
+# Ignoring file
+
+## update-index
 This command is useful when you want to ignore changes in a commited file.
 > git update-index --assume-unchanged path/to/file
 
