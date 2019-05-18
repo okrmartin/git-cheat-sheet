@@ -1,4 +1,4 @@
-# Ignoring file
+# Ignoring files
 
 ## update-index
 This command is useful when you want to ignore changes in a commited file.
